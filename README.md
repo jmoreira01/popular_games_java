@@ -1,2 +1,6 @@
 # popular_games_java
- Some popular portuguese games created in Java
+ End of module project. 
+ Creation of a menu of popular Portuguese games using Java language and using OOP.
+
+ Used tools:
+ - Java
