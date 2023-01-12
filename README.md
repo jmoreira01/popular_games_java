@@ -6,9 +6,9 @@ This project is a proposal of practical applications in Java. The main goal is t
 ## Games Included
 The project includes the following traditional Portuguese games:
 
-JOGO DO 21
-JOGO DO SACO
-Euromilhões
+- Jogo do 21
+- Jogo do Saco
+- Euromilhões
 
 ## Technologies Used
 Java
